@@ -130,5 +130,5 @@ This project is released under the **MIT License**.
 
 ---
 
-**Author:** [Your Name or Company]  
-**Repository:** [https://github.com/your-username/java-boilerplate](https://github.com/your-username/java-boilerplate)
+**Author:** Thang Doan  
+**Repository:** [https://github.com/thangd2/java-boilerplate](https://github.com/thangd2/java-boilerplate)
